@@ -1,4 +1,4 @@
-# Ubuntu-setup_scripts
+# Ubuntu-scripts
 
 #### Replace username,email in git.sh file
 
