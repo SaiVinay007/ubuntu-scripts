@@ -1,5 +1,5 @@
-# ubuntu-scripts
+# Ubuntu-setup_scripts
 
-#### replace username,email in git.sh file
+#### Replace username,email in git.sh file
 
-#### for installing R on other versions change the download file
+#### For installing R on other versions change the R repository 
