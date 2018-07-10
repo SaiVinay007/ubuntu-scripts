@@ -1,4 +1,5 @@
 # ubuntu-scripts
 
-## replace username,email in git.sh file
-## RandRstudio.sh is for ubuntu 16.04
+#### replace username,email in git.sh file
+
+#### for installing R on other versions change the download file
