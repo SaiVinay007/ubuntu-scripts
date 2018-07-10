@@ -5,7 +5,6 @@ sudo apt-get install python3-pip python3-dev
 sudo pip install --upgrade pip 
 sudo pip3 install --upgrade pip3 
  
-
 pip install tensorflow
 pip3 install tensorflow
 
