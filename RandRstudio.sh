@@ -26,10 +26,14 @@ echo " Installing Rstudio !! "
 
 sudo apt-get install gdebi-core
 wget https://download1.rstudio.org/rstudio-1.1.453-amd64.deb
+
 cd
 cd Downloads/
+
 sudo gdebi rstudio-1.1.453-amd64.deb
+
 cd
+
 
 # if there are missing dependencies try "sudo apt install -f"
 
