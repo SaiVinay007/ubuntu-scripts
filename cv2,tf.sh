@@ -17,3 +17,7 @@ pip install opencv-contrib-python
 sudo apt-get update
 sudo apt-get upgrade -y
 
+
+# if you get error like : ImportError: libSM.so.6: cannot open shared object file: No such file or directory
+sudo pip install opencv-python
+sudo apt update && sudo apt install -y libsm6 libxext6
