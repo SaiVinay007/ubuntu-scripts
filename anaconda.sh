@@ -7,7 +7,7 @@ sha256sum Anaconda3-5.0.1-Linux-x86_64.sh
 bash Anaconda3-5.0.1-Linux-x86_64.sh
 source ~/.bashrc
 
-echo "if this stops after this try running 'source ~/.bashrc'(manually) and comment out the above lines and run the file  "
+echo "if installation stops after this try running 'source ~/.bashrc'(manually) and comment out the above lines and run the file  "
 sleep 3s
 
 conda list
